@@ -1,8 +1,8 @@
 // DE VERSION
 
 Diablos.CS.Strings = {
-    busschedule = "BUSFAHRPLAN",
-    busdrivers = "BUSFAHRER/IN",
+    busschedule = "Busfahrplan",
+    busdrivers = "Busfahrer/in",
     nameofnpc = "Busfahrer/in Bahnhof",
     arentauthorize = "Sie dürfen kein Bus fahren, weil Sie kein Busfahrer/in sind!",
     notenoughplayers = "Es gibt nicht genug Spieler, um den Job Busfahrer/in auszuüben!",
